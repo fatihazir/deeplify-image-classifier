@@ -41,6 +41,10 @@ Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAP
 ## Setup (With docker)
 - Make sure docker is running
 
+0. **Switch to deeplify-backend:**
+   ```bash 
+   cd deeplify-backend
+
 1. **Build the docker image:**
    ```bash
    docker build -t deeplify-backend .
@@ -58,6 +62,19 @@ Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAP
 
 
 ## Testing
+### Screenshots
+
+- OK
+![OK screenshot](/screenshots/OK-test.png)
+
+- NOK
+![NOK screenshot](/screenshots/NOK-test.png)
+
+
+
+### Make sure you succesfully run the backend with local installation.
+ 
+### If not, you need to locate and activate the venv of backend file. Make sure you followed the instructions above (Setup (Without docker, dockerized version below) until the step 4(4 including)).
 
 1. **Install `pytest` and `httpx`:**
    ```bash
