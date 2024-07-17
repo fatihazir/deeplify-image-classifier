@@ -1,18 +1,15 @@
-# For Deeplify Backend
+# Deeplify Backend
 
 ## Introduction
 
 Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAPI-based backend service designed to handle image classification tasks. It features robust exception handling including end-point check, file type check, a JSON-based fixed response structure, and can be easily extended to include token-based authentication for secure access. The backend is structured to provide clear and consistent responses, ensuring a smooth integration with frontend applications.
-
-0. **Switch to deeplify-backend:**
-   ```bash 
-   cd deeplify-backend
 
 ## Setup (Without docker, dockerized version below)
 
 1. **Create a virtual environment:**
    ```bash
    python -m venv env
+   
 
 2. **Activate the virtual environment for macOS and Linux:**
    ```bash
@@ -67,29 +64,4 @@ Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAP
    ```bash
    pytest
 
-# For Deeplify Frontend
-
-## Introduction
-
-Welcome to the Deeplify Frontend project of Fatih HAZIR. This project is a React-based frontend application designed to interface with the Deeplify backend service for image classification tasks. It provides a user-friendly interface to upload images and displays classification results in an intuitive manner. The frontend leverages Material-UI for its UI components and styling, ensuring a clean and responsive design.
-
-0. **Switch to deeplify-frontend:**
-   ```bash
-   cd deeplify-frontend
-
-## Installation
-
-Follow these steps to set up and run the frontend application:
-
-0. **Make sure the docker backend is working:**
-   ```bash
-   Please check backend repository for instructions.
-
-1. **Install dependencies:**
-   ```bash
-   npm install
-
-2. **Start the project:**
-   ```bash
-   npm start
    

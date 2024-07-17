@@ -1,0 +1,16 @@
+export const colors = {
+    headerBackgroundColor: 'black',
+    headerTextColor: 'white',
+    headerBoxShadow: '0px 10px 15px rgba(0, 0, 0, 0.6)',
+    footerBackgroundColor: 'black',
+    footerTextColor: 'white',
+    mainBackgroundColor: '#fff',
+    primaryButtonColor: '#1976d2',
+    primaryButtonTextColor: '#fff',
+    imageClassificationOkColor: 'green',
+    imageClassificationNotOkColor: 'red',
+    typographySecondaryColor: 'textSecondary',
+    typographyPrimaryColor: 'primary',
+    typographySecondaryVariantColor: 'secondary',
+    alertErrorColor: 'error',
+};
