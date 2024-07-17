@@ -1,9 +1,3 @@
-# For Deeplify Backend
-
-## Introduction
-
-Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAPI-based backend service designed to handle image classification tasks. It features robust exception handling including end-point check, file type check, a JSON-based fixed response structure, and can be easily extended to include token-based authentication for secure access. The backend is structured to provide clear and consistent responses, ensuring a smooth integration with frontend applications.
-
 ## Screenshots
 
 - OK
@@ -11,6 +5,12 @@ Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAP
 
 - NOK
 ![NOK screenshot](/screenshots/NOK.png)
+
+# Deeplify Backend Installation (Frontend below)
+
+## Introduction
+
+Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAPI-based backend service designed to handle image classification tasks. It features robust exception handling including end-point check, file type check, a JSON-based fixed response structure, and can be easily extended to include token-based authentication for secure access. The backend is structured to provide clear and consistent responses, ensuring a smooth integration with frontend applications.
 
 ## Installation
 
