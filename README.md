@@ -14,6 +14,8 @@ Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAP
 
 ## Installation
 
+Clone the repository --> git clone https://github.com/fatihazir/deeplify-image-classifier.git
+
 0. **Switch to deeplify-backend:**
    ```bash 
    cd deeplify-backend
