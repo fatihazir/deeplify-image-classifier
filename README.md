@@ -72,15 +72,6 @@ Welcome to the Deeplify Backend project of Fatih HAZIR. This project is a FastAP
 
 
 ## Testing
-### Screenshots
-
-- OK
-![OK screenshot](/screenshots/OK-test.png)
-
-- NOK
-![NOK screenshot](/screenshots/NOK-test.png)
-
-
 
 ### Make sure you succesfully run the backend with local installation.
  
