@@ -101,7 +101,7 @@ Welcome to the Deeplify Frontend project of Fatih HAZIR. This project is a React
 
 Follow these steps to set up and run the frontend application:
 
-0. **Make sure the docker backend is working:**
+0. **Make sure the backend is working:**
    ```bash
    Please check backend repository for instructions.
 
